@@ -1,0 +1,35 @@
+.bg-theme{
+  background-color: #0D0D0D;
+}
+
+.cart-icon{
+  font-size: 2rem;
+}
+
+.hero-backg{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.about-backg{
+  min-height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #0D0D0D;
+}
+
+.card-backg{
+  height: 10vh;
+  width: auto;
+}
+
+.btn-info{
+  padding: 8px 35px;
+}
+.ff{
+  color: white;
+}
