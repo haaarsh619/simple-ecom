@@ -9,7 +9,7 @@ export default class shoescart extends Component {
             shoes: props.shoes.edges,
         }
     }
-    render() {
+    render() { 
     return (
         <section className='p-10 container'>
             <div className="container">
